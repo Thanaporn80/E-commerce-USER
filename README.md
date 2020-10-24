@@ -1,2 +1,2 @@
-# E-commerce-USER-
-Module User
+# E-commerce-Module USER (by August Team)
+
