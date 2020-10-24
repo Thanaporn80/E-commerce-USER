@@ -5,6 +5,6 @@
 ## :wrench: Product Service 
 -   สมัครสมาชิกลูกค้า (Sign Up)
 -   เข้าสู่ระบบ (Log in)
-
-
+-   ลบบัญชีผู้ใช้
+-   แก้ไข, ตั้งค่าข้อมูลบัญชี
 ## :page_with_curl: Database 
